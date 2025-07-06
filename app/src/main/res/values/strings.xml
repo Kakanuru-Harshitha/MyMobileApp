@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tech Gadgets App</string>
+    <string name="ttlTxt">Top Five Technology Gifts</string>
+    <string-array name="fiveList">
+        <item>Macbook</item>
+        <item>Printer</item>
+        <item>RaspberryPi</item>
+        <item>CasaPopUpDesk</item>
+        <item>SamsungGalaxyWatch</item>
+    </string-array>
+    <string name="contttlTxt1">Macbook</string>
+    <string name="contttlTxt2">Printer</string>
+    <string name="contttlTxt3">RaspberryPi</string>
+    <string name="contttlTxt4">Casapopupdesk</string>
+    <string name="contttlTxt5">SamsungGalaxyWatch</string>
+    <string name="pictureTxt">Picture Text</string>
+    <string name="techitem1">Apple - MacBook Air 15-inch Laptop - Apple M3 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight</string>
+    <string name="techitem2"> HP OfficeJet Pro 8125e Wireless Color All-in-One Printer, Print, Scan, Copy, Best for Home Office, 3 Months FREE Ink (405T6A)
+</string>
+    <string name="techitem3"> Raspberry Pi 5 16GB / Vilros Essentials Kit</string>
+    <string name="techitem4">Logitech Casa Pop Up Desk Kit - Adjustable Laptop Stand for Desks, Wireless Keyboard , Touchpad, Bluetooth, USB C Charging, Classic Chic, Green/Black</string>
+    <string name="techitem5">Samsung - Galaxy Watch7 Aluminum Smartwatch 44mm LTE - Green - (2024)</string>
+    <string name="URL1">https://www.amazon.com/Apple-MacBook-MPXQ2LL-Display-Renewed/dp/B07VF8R4J1?source=ps-sl-shoppingads-lpcontext&amp;ref_=fplfs&amp;smid=A1EUQG8F5VSOTR&amp;th=1</string>
+    <string name="URL2">https://www.staples.com/hp-officejet-pro-8125e-wireless-color-all-in-one-printer-print-scan-copy-best-for-home-office-3-months-free-ink-405t6a/product_24633822?cid=ps:gs:co:nb:pla:hp_oj&amp;gad_source=1&amp;gad_campaignid=22501152237&amp;gbraid=0AAAAAD-acdfUMBokM5fdT9zOjLOhpKQNg&amp;gclid=CjwKCAjw9uPCBhATEiwABHN9K7UMvFgugM0dP6hR0D2WyrbTnVPkRLS10Tf27yPVOlRnNsC3sQFvLRoCFo0QAvD_BwE
+</string>
+    <string name="URL3">https://vilros.com/products/raspberry-pi-5?variant=41433724387422&amp;country=US&amp;currency=USD&amp;utm_medium=product_sync&amp;utm_source=google&amp;utm_content=sag_organic&amp;utm_campaign=sag_organic&amp;tw_source=google&amp;tw_adid=&amp;tw_campaign=19684058556&amp;gad_source=1&amp;gad_campaignid=19684058613&amp;gbraid=0AAAAAD1QJAjkeWzs6DurkJp8fQTr5dcTp&amp;gclid=CjwKCAjw9uPCBhATEiwABHN9KzzSEBBUsJTOrzVCNj1xP_kvOb0SVSqVJGX4SjsUXlwh8Fkx6th55BoCwJMQAvD_BwE
+</string>
+    <string name="URL4">https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-Bluetooth/dp/B0B6GVH4NQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sPn_XA4kxJTJle-2e9jhul-E7GVFyJSPtzlUWvxTNJW5ScsxEQuQLI4o2WRXj0fa7A-3AnGXY7s5ne7AYgUiulhdle7ZW-MqaCwjpXfP8EF6J0UsUjJzHxo24A2onVcMBi8MItzJ84uvauHNontIhqYj6MrjJiFoWQuyLJBlsNF0WiHLYmn8a6iXMCwOq3kPkLY-LCgDBETKqLA957S9GQCvWfrZisKCtE8u3tXQmaS1lnkZtNepEm0kFHyvUSQetqLXeYR87YoY2a0c_ZRHJNvQ7CqTM7RzU4sVdG6p_mg.V_55Hki7Uqp0xiOcCEVsBqrtVkiHKkZ8rxgkozEq-fg&amp;dib_tag=se&amp;hvadid=694780811453&amp;hvdev=c&amp;hvexpln=67&amp;hvlocphy=9015827&amp;hvnetw=g&amp;hvocijid=7433054460785411551--&amp;hvqmt=e&amp;hvrand=7433054460785411551&amp;hvtargid=kwd-2186146462242&amp;hydadcr=13078_13391958&amp;keywords=casa%2Bpop-up%2Bdesk&amp;mcid=224716df34e231979bcac301be25b6d9&amp;qid=1750725906&amp;sr=8-1&amp;th=1</string>
+    <string name="URL5">https://www.amazon.com/SAMSUNG-Bluetooth-Smartwatch-Wellness-Manufacturer/dp/B0D1YNVD88/ref=sr_1_1?dib=eyJ2IjoiMSJ9.9TcifceiSHLRpMnWbY0XbdtUOGnCHlHYi7Ej_UaVBzdwkxD7G-om26z1yV2S_ksfYDu3M0QIheg7ho8911cLsMhJ7GEEaDSOqtAaL45TOG3kx-fvk8fryRWjIaNLK0BT9AeJ4UjxSRVFpq6Z0tkZJMuAmodGEazdC-uZqNbll7F14dVY8_rPbLA1CNTE9Jjr4gqAH9Nbuyk9JCrp7foaddw3nX7DvUJIBgEFVq0u97Q.tpCSNkPVb-bBvKRmm8Al0OE_KYCcCwc6RbOBzyUHI9c&amp;dib_tag=se&amp;hvadid=693861707184&amp;hvdev=c&amp;hvexpln=67&amp;hvlocphy=9015827&amp;hvnetw=g&amp;hvocijid=844146333934820738--&amp;hvqmt=e&amp;hvrand=844146333934820738&amp;hvtargid=kwd-357348095222&amp;hydadcr=15458_13495280&amp;keywords=samsung%2Bgalaxy%2Bwatch%2Bamazon&amp;mcid=00190f5bf9633b668bd76d80ed0a7a1e&amp;qid=1750727407&amp;sr=8-1&amp;th=1</string>
+    <string name="btnTxt">Click for Website</string>
+</resources>
